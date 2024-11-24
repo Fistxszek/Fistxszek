@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hello, this is my Github page 👋
+### Here you can find my coding projects from 42 Warsaw
 
 <!--
 **Fistxszek/Fistxszek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
